@@ -1,0 +1,6 @@
+langchain 
+streamlit
+pathlib 
+sqlite3
+sqlalchemy
+mysql
